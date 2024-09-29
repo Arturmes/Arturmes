@@ -11,6 +11,7 @@
 - [Tecno KG5n TWRP/PBRP](https://github.com/RadGoodNow/android_device_tecno_KG5n)
 - [Tecno KG5n Kernel](https://github.com/Arturmes/android_kernel_unisoc_qogirl6)
 - [zfetch](https://github.com/Arturmes/zfetch)
+- [sams2 (Squid Account Management System)](https://github.com/Arturmes/sams2)
 
 ### Desktop specs
 - **OS:** NixOS, SwayFX 0.4
